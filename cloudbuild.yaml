@@ -43,7 +43,7 @@ steps:
 images:
   - "${_REGION}-docker.pkg.dev/$PROJECT_ID/${_REPOSITORY}/${_SERVICE}:$BUILD_ID"
 substitutions:
-  _REGION: us-central1
+  _REGION: asia-east1
   _REPOSITORY: food-demo
   _SERVICE: food-demo
   _RUNTIME_SERVICE_ACCOUNT: "food-demo-runtime@${PROJECT_ID}.iam.gserviceaccount.com"

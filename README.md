@@ -92,7 +92,7 @@ docker stop food-demo-local
 
 ## 手動操作 Google Cloud 示範
 
-以下指令會建立雲端資源，請只在要進行雲端示範時自行執行。本機測試不需執行本節。需要已啟用帳單的專案、Google Cloud CLI，以及建立資源與設定 IAM 的管理權限。區域預設統一為 `us-central1`；區域選擇不保證所有流量或資源免費。
+以下指令會建立雲端資源，請只在要進行雲端示範時自行執行。本機測試不需執行本節。需要已啟用帳單的專案、Google Cloud CLI，以及建立資源與設定 IAM 的管理權限。區域預設統一為 `asia-east1`；區域選擇不保證所有流量或資源免費。
 
 ### 準備資源
 
@@ -100,7 +100,7 @@ docker stop food-demo-local
 
 ```bash
 export PROJECT_ID='your-project-id'
-export REGION='us-central1'
+export REGION='asia-east1'
 export REPOSITORY='food-demo'
 export SERVICE='food-demo'
 export BUILD_SA="food-demo-build@${PROJECT_ID}.iam.gserviceaccount.com"
