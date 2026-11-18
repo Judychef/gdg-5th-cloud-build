@@ -1,20 +1,20 @@
 {
   "items": [
     {
-      "name": "滷肉飯",
+      "name": "大蒜滷肉飯",
       "description": "慢燉滷肉配上熱騰騰的白飯，簡單又滿足。",
       "category": "主食",
       "price": 65
     },
     {
-      "name": "雞肉飯",
+      "name": "火雉雞肉飯",
       "description": "鮮嫩雞絲、油蔥香氣，再搭配一份醃蘿蔔。",
       "category": "主食",
       "price": 75
     },
     {
-      "name": "紅燒牛肉麵",
-      "description": "紅燒湯頭、軟嫩牛肉與吸滿湯汁的麵條。",
+      "name": "清燉牛肉麵",
+      "description": "清燉湯頭、軟嫩牛肉與吸滿湯汁的麵條。",
       "category": "主食",
       "price": 180
     },
@@ -25,13 +25,13 @@
       "price": 45
     },
     {
-      "name": "蘿蔔排骨湯",
-      "description": "白蘿蔔與排骨細火燉煮，暖暖喝一碗。",
+      "name": "蘿蔔傑尼歸湯",
+      "description": "白蘿蔔與傑尼歸細火燉煮，暖暖喝一碗。",
       "category": "湯品",
       "price": 60
     },
     {
-      "name": "古早味紅茶",
+      "name": "知名紅茶",
       "description": "熟悉的茶香與微甜滋味，冰涼解渴。",
       "category": "飲品",
       "price": 30
